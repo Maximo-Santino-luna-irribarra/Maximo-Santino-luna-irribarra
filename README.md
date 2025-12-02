@@ -29,12 +29,12 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,nestjs,spring,tailwind" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,nestjs,boostrap" />
 </p>
 
 ### 🗄️ Databases
@@ -44,7 +44,7 @@
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
