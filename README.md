@@ -34,7 +34,7 @@
 
 ### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,nestjs,boostrap" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,nestjs,bootstrap" />
 </p>
 
 ### 🗄️ Databases
@@ -56,3 +56,20 @@
 </p>
 
 ---
+
+## 🐱 Cute Section
+
+<table width="100%">
+  <tr>
+    <td align="left" width="33%">
+      <img src="https://github.com/user-attachments/assets/511836d0-8dcf-4896-b3f5-06be4a8a8d60" width="180px">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/6c554890-a91c-4dcf-84b5-a1bdd2c642c5" width="200px">
+    </td>
+    <td align="right" width="33%">
+      <img src="https://github.com/user-attachments/assets/7a78ef90-953a-4a3a-ad0c-82ba59771eda" width="180px">
+    </td>
+  </tr>
+</table>
+
