@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Santino</h1>
+<h1 align="center">Hi , I'm Santino</h1>
 <h3 align="center">Full Stack Developer from Argentina 🇦🇷</h3>
 
 ---
 
-## 🐺 About me
+## About me
 - 🎓 I'm studying programming and working on multiple projects  
 - 🚀 Currently focused on **Full Stack Development & Cybersecurity**  
 - 📩 Feel free to reach me anytime  
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
