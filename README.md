@@ -6,7 +6,8 @@
 ## About me
 - 🎓 I'm studying programming and working on multiple projects  
 - 🚀 Currently focused on **Full Stack Development & Cybersecurity**  
-- 📩 Feel free to reach me anytime  
+- 📩 Feel free to reach me anytime
+- see mi portfolio for more info https://portfolio-9og6em9jn-santinos-projects-3a14a22d.vercel.app/
 
 ---
 
