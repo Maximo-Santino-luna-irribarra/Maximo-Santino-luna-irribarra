@@ -4,10 +4,10 @@
 ---
 
 ## About me
-- 🎓 I'm studying programming and working on multiple projects  
-- 🚀 Currently focused on **Full Stack Development & Cybersecurity**  
-- 📩 Feel free to reach me anytime
-- see mi portfolio for more info https://portfolio-9og6em9jn-santinos-projects-3a14a22d.vercel.app/
+- I'm studying programming and working on multiple projects  
+- Currently focused on **Full Stack Development & Cybersecurity**  
+- Feel free to reach me anytime
+- see my portfolio for more info https://portfolio-9og6em9jn-santinos-projects-3a14a22d.vercel.app/
 
 ---
 
@@ -26,31 +26,31 @@
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css" />
 </p>
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=angular,nodejs,express,nestjs,bootstrap" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🐱 Cute Section
+##  Cute Section
 
 <table width="100%">
   <tr>
