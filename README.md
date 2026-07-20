@@ -7,7 +7,7 @@
 - I'm studying programming and working on multiple projects  
 - Currently focused on **Full Stack Development & Cybersecurity**  
 - Feel free to reach me anytime
-- see my portfolio for more info https://portfolio-9og6em9jn-santinos-projects-3a14a22d.vercel.app/
+- see my portfolio for more info https://santino-luna.vercel.app/
 
 ---
 
